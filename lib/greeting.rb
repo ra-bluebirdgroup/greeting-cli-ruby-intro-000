@@ -1,6 +1,6 @@
 # code the #greeting method here!
 puts "Welcome, what is your name?"
-name = gets.chomp
+name = gets
 
 def greeting(name)
 
